@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://remixmeme.com/templates/you-tweaking-ai-trend"><img src="https://img.shields.io/badge/Live-remixmeme.com-111111?style=for-the-badge" alt="Live" /></a>
   <a href="https://remixmeme.com/zh/templates/you-tweaking-ai-trend"><img src="https://img.shields.io/badge/中文-remixmeme.com%2Fzh-2ea44f?style=for-the-badge" alt="ZH" /></a>
-  <a href="https://maynor996.github.io/rm-you-tweaking-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
+  <a href="https://maynor996.github.io/you-tweaking-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
 </p>
 
 **Oh He Tweakin: The You Tweaking AI Trend With Your Faces** is one of the AI meme / viral templates on **[Remix Meme](https://remixmeme.com)** (Awesome Meme Video).
@@ -21,7 +21,7 @@ Oh he tweakin is the line from a viral dating-show clip: he asks her to do a 360
 | **Template** | https://remixmeme.com/templates/you-tweaking-ai-trend |
 | **中文** | https://remixmeme.com/zh/templates/you-tweaking-ai-trend |
 | **Catalog home** | https://remixmeme.com |
-| **This landing** | https://maynor996.github.io/rm-you-tweaking-ai-trend/ |
+| **This landing** | https://maynor996.github.io/you-tweaking-ai-trend/ |
 
 ## How to use
 
